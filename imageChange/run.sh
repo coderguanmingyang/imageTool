@@ -1,0 +1,1 @@
+python imageChange.py --imagePath test2.jpeg --a 0.3
